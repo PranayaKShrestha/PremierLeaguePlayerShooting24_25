@@ -23,30 +23,29 @@ I scraped Premier League shot location data from Understat using the understatap
 
 Interactive Filters (Top Bar)
 
-Filter by Player, Result (Goal, Blocked, Missed, etc.), and Shot Type (Left Foot, Right Foot, Header, etc.) to drill into specific subsets of data.
+- <a Filter by Player, Result (Goal, Blocked, Missed, etc.), and Shot Type (Left Foot, Right Foot, Header, etc.) to drill into specific subsets of data.
 
-Summary KPIs (Top Row)
 
-Goals: Total number of goals scored.
+- <a Goals: Total number of goals scored.
 
-xG (Expected Goals): Sum of all xG values for the selected dataset.
+- <a xG (Expected Goals): Sum of all xG values for the selected dataset.
 
-xG Difference: Goals minus xG, showing overperformance or underperformance.
+- <a xG Difference: Goals minus xG, showing overperformance or underperformance.
 
-xG Chain: Total xG contributions including passes leading to shots.
+- <a xG Chain: Total xG contributions including passes leading to shots.
 
-xG Buildup: xG created through possession sequences excluding shots/assists.
+- <a xG Buildup: xG created through possession sequences excluding shots/assists.
 
 Shot Type Distribution (Top Right)
 
-Pie chart displaying the breakdown of shots taken with Right Foot, Left Foot, Head, or Other Body Parts.
+- <a Pie chart displaying the breakdown of shots taken with Right Foot, Left Foot, Head, or Other Body Parts.
 
 Density Shot Map (Bottom Left)
 
-Heatmap visualization of shot locations across the pitch, highlighting high-volume shooting areas.
+- <a Heatmap visualization of shot locations across the pitch, highlighting high-volume shooting areas.
 
 Shot Result Map (Bottom Right)
 
-Scatter plot showing individual shot outcomes, color-coded by Result (Goal, Blocked, Missed, Saved, Shot on Post).
+- <a Scatter plot showing individual shot outcomes, color-coded by Result (Goal, Blocked, Missed, Saved, Shot on Post).
 
-Provides spatial context for how effective shooting has been from different areas.
+- <a Provides spatial context for how effective shooting has been from different areas.
