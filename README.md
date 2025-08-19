@@ -1,2 +1,2 @@
-# PremierLeaguePlayerShooting24_25
-Dashboard of Premier Player Shooting Statistics 2024-2025
+# Premier League Player Shooting Statistics 2024-2025
+
