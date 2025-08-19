@@ -15,5 +15,9 @@ I scraped Premier League shot location data from Understat using the understatap
 
 ## Dashboard
 
+<img width="1948" height="1196" alt="image" src="https://github.com/user-attachments/assets/a1fd71d0-f2dd-4428-8fdd-505c0a3713ab" />
+
+<img width="1978" height="1194" alt="image" src="https://github.com/user-attachments/assets/84a976a0-c183-4323-8a1a-241345725d94" />
+
 
 
