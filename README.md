@@ -21,31 +21,33 @@ I scraped Premier League shot location data from Understat using the understatap
 
 
 
-Interactive Filters (Top Bar)
-
-- <a Filter by Player, Result (Goal, Blocked, Missed, etc.), and Shot Type (Left Foot, Right Foot, Header, etc.) to drill into specific subsets of data.
 
 
-- <a Goals: Total number of goals scored.
+**Interactive Filters (Top Bar)**
 
-- <a xG (Expected Goals): Sum of all xG values for the selected dataset.
+- Filter by Player, Result (Goal, Blocked, Missed, etc.), and Shot Type (Left Foot, Right Foot, Header, etc.) to drill into specific subsets of data.
 
-- <a xG Difference: Goals minus xG, showing overperformance or underperformance.
 
-- <a xG Chain: Total xG contributions including passes leading to shots.
+- Goals: Total number of goals scored.
 
-- <a xG Buildup: xG created through possession sequences excluding shots/assists.
+- xG (Expected Goals): Sum of all xG values for the selected dataset.
 
-Shot Type Distribution (Top Right)
+- xG Difference: Goals minus xG, showing overperformance or underperformance.
 
-- <a Pie chart displaying the breakdown of shots taken with Right Foot, Left Foot, Head, or Other Body Parts.
+- xG Chain: Total xG contributions including passes leading to shots.
 
-Density Shot Map (Bottom Left)
+- xG Buildup: xG created through possession sequences excluding shots/assists.
 
-- <a Heatmap visualization of shot locations across the pitch, highlighting high-volume shooting areas.
+**Shot Type Distribution (Top Right)**
 
-Shot Result Map (Bottom Right)
+- Pie chart displaying the breakdown of shots taken with Right Foot, Left Foot, Head, or Other Body Parts.
 
-- <a Scatter plot showing individual shot outcomes, color-coded by Result (Goal, Blocked, Missed, Saved, Shot on Post).
+**Density Shot Map (Bottom Left)**
 
-- <a Provides spatial context for how effective shooting has been from different areas.
+- Heatmap visualization of shot locations across the pitch, highlighting high-volume shooting areas.
+
+**Shot Result Map (Bottom Right)**
+
+- Scatter plot showing individual shot outcomes, color-coded by Result (Goal, Blocked, Missed, Saved, Shot on Post).
+
+- Provides spatial context for how effective shooting has been from different areas.
